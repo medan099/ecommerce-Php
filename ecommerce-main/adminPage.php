@@ -58,7 +58,7 @@ if ($searchQuery != '') {
     // ...
 }
 
-// ... (Other HTML content)
+
 
 include 'layout_foot.php';
 include 'layout_foot.php'; // Note: duplicated inclusion
